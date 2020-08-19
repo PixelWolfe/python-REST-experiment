@@ -3,5 +3,6 @@
         "activityBar.background": "#52163D",
         "titleBar.activeBackground": "#721F56",
         "titleBar.activeForeground": "#FEFCFD"
-    }
+    },
+    "python.pythonPath": "/Users/robertjohnson/Desktop/prime/pythonREST/venv/bin/python3"
 }
